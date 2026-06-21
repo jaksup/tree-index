@@ -1,7 +1,0 @@
-*.backup
-*.webarchive
-hotjar_recovery_codes.txt
-TI_12_2022[backup].ipynb
-.DS_Store
-__pycache__/
-*.pyc
